@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">NASA Tv</string>
+
+  <string name="television">T  E  L  E  V  I  S  I  O  N</string>
+  <string name="status_connecting">Connecting</string>
+  <string name="status_off_air">Off-air</string>
+  <string name="status_live">Live</string>
+  <string name="loading0">Connecting to NASA TV servers</string>
+  <string name="loading1">Preparing life support system</string>
+  <string name="loading2">Preparing beam-up sequence</string>
+  <string name="loading3">Thrusting boosters to max speed</string>
+  <string name="ready">Systems all-green, captain!\nTap to begin</string>
+  <string name="off_air">Channel is off-air at the moment.</string>
+</resources>

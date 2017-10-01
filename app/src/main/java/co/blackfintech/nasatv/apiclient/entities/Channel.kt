@@ -1,0 +1,14 @@
+/**
+ * NASATv
+ *
+ * Created by iomusashi on 9/28/17.
+ * Copyright (c) 2017 iomusashi. All rights reserved.
+ */
+
+package co.blackfintech.nasatv.apiclient.entities
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+class Channel(var id: String? = null,
+              var status: String? = null,
+              var stream: Stream? = null)
+////////////////////////////////////////////////////////////////////////////////////////////////////

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#1a237e</color>
+  <color name="colorPrimaryDark">#000051</color>
+  <color name="colorPrimarySemiTransparent">#991a237e</color>
+  <color name="colorAccent">#FF4081</color>
+
+  <color name="colorNasaLogo">#FF0012</color>
+  <color name="colorNasaRoundLogo">#D3303C</color>
+
+  <color name="colorConnecting">#ffea00</color>
+  <color name="colorOffAir">#d50000</color>
+  <color name="colorLive">#1de9b6</color>
+</resources>
