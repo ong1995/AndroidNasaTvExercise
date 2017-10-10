@@ -8,9 +8,9 @@
 package co.blackfintech.nasatv.apiclient
 
 import co.blackfintech.nasatv.apiclient.entities.ChannelResponse
+import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path
-import retrofit2.Call
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 interface ChannelService {
